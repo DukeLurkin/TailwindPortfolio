@@ -1,6 +1,7 @@
 import About from "./components/About";
 import AchievementShowcase from "./components/AchievementShowcase";
 import ContactForm from "./components/ContactForm";
+import Footer from "./components/Footer";
 import HeroSection from "./components/HeroSection";
 import Navbar from "./components/Navbar";
 import Projects from "./components/Projects";
@@ -20,6 +21,7 @@ const App = () => {
       <AchievementShowcase/>
       <Testimonials/>
       <ContactForm/>
+      <Footer/>
     </main>
       
   )
